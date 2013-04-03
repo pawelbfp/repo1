@@ -1,2 +1,3 @@
 testowy plik
 nowy wpis w pliku
+druga zmiana
