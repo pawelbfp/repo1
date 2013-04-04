@@ -1,4 +1,4 @@
 testowy plik
 nowy wpis w pliku
-druga zmiana
-zmiana w pliku w pracy na masterze
+zmiana w pliku w pracy na masterze 
+zmiana jak jestem w branchu task2
